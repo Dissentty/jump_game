@@ -5,7 +5,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 400, 600
 win = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Doodle Jump by dissentty")
+pygame.display.set_caption("Jump game by dissentty")
 
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
